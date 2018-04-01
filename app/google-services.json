@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608003072441",
+    "firebase_url": "https://gusti1202140033modul6.firebaseio.com",
+    "project_id": "gusti1202140033modul6",
+    "storage_bucket": "gusti1202140033modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608003072441:android:3d101cbe3ea0cd8a",
+        "android_client_info": {
+          "package_name": "com.example.gusti_r7i22ff.gustianandarespati_1202140033_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608003072441-ci7e23n4eo68v0ohf3qrlir50nvtt5f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gusti_r7i22ff.gustianandarespati_1202140033_modul6",
+            "certificate_hash": "aececb9f31a03f679fd50b46e85bd496c70c1d5e"
+          }
+        },
+        {
+          "client_id": "608003072441-uajj00bq8o2lsqr3d78ve83ftgptrkue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0awwUjsr8VnkFj1FpkOJd2PFa70SjcXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608003072441-uajj00bq8o2lsqr3d78ve83ftgptrkue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
